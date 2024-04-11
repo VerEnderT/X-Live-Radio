@@ -1,0 +1,15 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=X-Live-Radio
+GenericName=Radio Player
+Comment=Radio online hören
+Icon=x-live-radio
+Exec=x-live-radio
+Terminal=false
+StartupNotify=true
+Type=Application
+Categories=AudioVideo;Player;
+Keywords=radio;player;music;stream;
+Keywords[de]=Radio;Stream;Musik;
+Path=/ust/share/x-live/x-live-radio/
