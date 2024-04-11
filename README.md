@@ -1,3 +1,3 @@
 # X-Live-Radio
-Radioplayer mit tranparenten overlay für debian basierte Linux systeme 
-mit einer Liste deutschsprachiger Semder.
+Radioplayer mit transparentem Overlay für Debian-basierte Linux-Systeme 
+mit einer Liste deutscher Radio-Streams
